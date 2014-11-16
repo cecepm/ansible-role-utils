@@ -1,0 +1,14 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: cecepm
+  description: Install some utility apps.
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  categories:
+  - system

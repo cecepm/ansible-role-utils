@@ -1,0 +1,14 @@
+---
+utils_packages:
+- curl
+- debconf
+- dmidecode
+- htop
+- iftop
+- iotop
+- pciutils
+- screen
+- sysstat
+- tmux
+- vim
+- wget
