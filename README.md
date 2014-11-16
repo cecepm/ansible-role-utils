@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/cecepm/ansible-role-utils.svg?branch=master)](https://travis-ci.org/cecepm/ansible-role-utils)
 
-Install some utility apps (`curl`, `debconf`, `dmidecode`, `htop`, `iftop`, etc)
+Install some utility apps (`curl`, `debconf`, `dmidecode`, `htop`, `iftop`, `iotop`, etc)
 
 ## Requirements
 
