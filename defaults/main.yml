@@ -1,5 +1,6 @@
 ---
 utils_packages:
+- bzip2
 - curl
 - debconf
 - dmidecode
@@ -10,5 +11,6 @@ utils_packages:
 - screen
 - sysstat
 - tmux
+- unzip
 - vim
 - wget

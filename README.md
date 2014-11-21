@@ -13,6 +13,7 @@ None.
 Available variables are listed below, along with default values (see `defaults/main.yml`):
 
     utils_packages:
+    - bzip2
     - curl
     - debconf
     - dmidecode
@@ -23,6 +24,7 @@ Available variables are listed below, along with default values (see `defaults/m
     - screen
     - sysstat
     - tmux
+    - unzip
     - vim
     - wget
 
